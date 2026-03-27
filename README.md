@@ -84,6 +84,10 @@ Curated list of tools after 25 years of design experience. Mac and CLI focused.
 
 - [Hemingway Editor](https://hemingwayapp.com) makes your writing sharp, freemium
 
+## Analytics
+
+- [Google Analytics](https://analytics.google.com) still the standard for tracking what people do on your site, free
+
 ## SEO & Recon
 
 - [Screaming Frog](https://screamingfrog.co.uk/seo-spider) see a site the way Google sees it, freemium
