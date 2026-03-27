@@ -1,4 +1,4 @@
-# awesome-sole-creator
+# Awesome Sole Creator
 
 25 years in design, dev, branding and marketing. Tools that actually work. Mac and CLI focused.
 
