@@ -65,6 +65,13 @@
 - [Product Hunt](https://producthunt.com) launch visibility, free
 - [Google Analytics](https://analytics.google.com) site analytics, free
 
+## standards and accessibility
+
+- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) W3C web content accessibility guidelines, the current standard, free
+- [WHATWG](https://whatwg.org) living HTML and DOM specs, free
+- [MDN Web Docs](https://developer.mozilla.org) the actual reference for HTML, CSS, JS, free
+- [W3C](https://www.w3.org) all web standards in one place, free
+
 ## recon
 
 - [Screaming Frog](https://screamingfrog.co.uk/seo-spider) site crawl, freemium
