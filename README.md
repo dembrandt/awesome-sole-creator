@@ -1,6 +1,6 @@
 # awesome-sole-creator
 
-Curated list of tools after 25 years of design experience. Mac-focused.
+Curated list of tools after 25 years of design experience. Mac and CLI focused.
 
 ---
 
