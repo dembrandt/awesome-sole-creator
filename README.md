@@ -9,6 +9,7 @@ Curated list of tools after 25 years of design experience. Mac and CLI focused.
 - [Figma](https://figma.com) the main tool, free tier
 - [Paper](https://wetransfer.com/paper) quickest way to get an idea out of your head, iPad, free
 - [Freeform](https://apps.apple.com/app/freeform/id6443742539) Apples infinite canvas, good when you dont know what you're making yet, built-in free
+- [Canva](https://canva.com) fast brand collateral and social assets, freemium
 
 ## Font & Type
 
