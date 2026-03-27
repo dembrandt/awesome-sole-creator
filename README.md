@@ -67,6 +67,10 @@ Curated list of tools after 25 years of design experience. Mac and CLI focused.
 - [GoPro Webcam](https://gopro.com/webcam) best webcam you already own, free
 - [Notion](https://notion.so) external brain for guides, docs and personal ops, freemium
 
+## Email Marketing
+
+- [EmailOctopus](https://emailoctopus.com) email marketing without the Mailchimp price tag, freemium
+
 ## Personal Branding
 
 - [Beacons.ai](https://beacons.ai) one link for everything you do, freemium
