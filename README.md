@@ -56,6 +56,8 @@ Curated list of tools after 25 years of design experience. Mac and CLI focused.
 ## AI
 
 - [Claude](https://claude.ai) outsource thinking when stuck, freemium
+- [ChatGPT](https://chat.openai.com) ideation, code, sparring, freemium
+- [Perplexity](https://perplexity.ai) better Google in many situations, freemium
 - [Google Whisk](https://labs.google/fx/tools/whisk) experimental, mix reference images into something new, free
 
 ## Mac Utilities
@@ -67,6 +69,10 @@ Curated list of tools after 25 years of design experience. Mac and CLI focused.
 ## Personal Branding
 
 - [Beacons.ai](https://beacons.ai) one link for everything you do, freemium
+
+## Writing
+
+- [Hemingway Editor](https://hemingwayapp.com) makes your writing sharp, freemium
 
 ## SEO & Recon
 
