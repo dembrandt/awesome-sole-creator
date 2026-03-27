@@ -1,103 +1,73 @@
 # awesome-sole-creator
 
-Things I actually use. Mac-only where it matters.
-
-`Free` · `Freemium` · `Paid` · `Sub`
+Things I actually use. Mac-focused.
 
 ---
 
 ## Design & Prototyping
 
-| Tool | Price | Notes |
-|------|-------|-------|
-| [Figma](https://figma.com) | Freemium | The main tool. Design, prototype, dev handoff |
-| [Paper](https://wetransfer.com/paper) | Freemium | Quick sketching, iPad |
-| [Freeform](https://apps.apple.com/app/freeform/id6443742539) | Free | Apple's infinite canvas — built into Mac/iPad/iPhone. Good for early-stage thinking |
+- [Figma](https://figma.com) — the main tool _(freemium)_
+- [Paper](https://wetransfer.com/paper) — quick sketching, iPad _(freemium)_
+- [Freeform](https://apps.apple.com/app/freeform/id6443742539) — Apple's infinite canvas, built-in _(free)_
 
 ## Font & Type
 
-| Tool | Price | Notes |
-|------|-------|-------|
-| [Glyphs](https://glyphsapp.com) | Paid | Mac-only. Font creation, the serious one |
-| [Typescale](https://typescale.com) | Free | Type scale calculator |
+- [Glyphs](https://glyphsapp.com) — font creation, Mac only _(paid)_
+- [Typescale](https://typescale.com) — type scale calculator _(free)_
 
 ## Color
 
-| Tool | Price | Notes |
-|------|-------|-------|
-| [mycolor.space](https://mycolor.space) | Free | Palette and gradient generator |
+- [mycolor.space](https://mycolor.space) — palette and gradient generator _(free)_
 
 ## Dev
 
-| Tool | Price | Notes |
-|------|-------|-------|
-| [VS Code](https://code.visualstudio.com) | Free | Daily driver editor |
-| [Tailwind CSS](https://tailwindcss.com) | Free | Utility-first CSS |
-| [Linear](https://linear.app) | Freemium | Spec and issue tracking |
-| [Next.js](https://nextjs.org) | Free | React framework |
-| [Vercel](https://vercel.com) | Freemium | Deploy and host, pairs with Next.js |
-| [GitHub](https://github.com) | Freemium | Version control, repos, CI/CD |
+- [VS Code](https://code.visualstudio.com) — daily driver editor _(free)_
+- [Tailwind CSS](https://tailwindcss.com) — utility-first CSS _(free)_
+- [Next.js](https://nextjs.org) — React framework _(free)_
+- [Vercel](https://vercel.com) — deploy and host _(freemium)_
+- [GitHub](https://github.com) — version control _(freemium)_
+- [Linear](https://linear.app) — spec and issue tracking _(freemium)_
 
 ## Video & Media
 
-| Tool | Price | Notes |
-|------|-------|-------|
-| [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) | Free / Paid | Video editing and color grading. Free version covers most work |
-| [Handbrake](https://handbrake.fr) | Free | Video transcoding |
-| [Gifski](https://gif.ski) | Paid | Best GIF quality from video, Mac App Store |
-| [OBS Studio](https://obsproject.com) | Free | Recording and streaming |
+- [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) — video editing and color grading _(free / paid)_
+- [Handbrake](https://handbrake.fr) — video transcoding _(free)_
+- [Gifski](https://gif.ski) — best GIF quality from video, Mac _(paid)_
+- [OBS Studio](https://obsproject.com) — recording and streaming _(free)_
 
 ## Photo & Image
 
-| Tool | Price | Notes |
-|------|-------|-------|
-| [Adobe CC](https://adobe.com/creativecloud) | Sub | Photoshop, Illustrator, InDesign, Lightroom |
-| [Darktable](https://darktable.org) | Free | Raw processing, Lightroom alternative |
-| [Procreate](https://procreate.com) | Paid | iPad sketching, illustration, animation. My go-to for comic and character work |
-
-## Mac Utilities
-
-| Tool | Price | Notes |
-|------|-------|-------|
-| [Rectangle](https://rectangleapp.com) | Free | Window snapping |
-| [GoPro Webcam](https://gopro.com/webcam) | Free | GoPro as webcam on Mac |
-| [Notion](https://notion.so) | Freemium | Notes, guides, personal ops |
+- [Adobe CC](https://adobe.com/creativecloud) — Photoshop, Illustrator, InDesign, Lightroom _(sub)_
+- [Darktable](https://darktable.org) — raw processing, Lightroom alternative _(free)_
+- [Procreate](https://procreate.com) — iPad sketching, illustration, animation, comic work _(paid)_
 
 ## Icons & Assets
 
-| Tool | Price | Notes |
-|------|-------|-------|
-| [Heroicons](https://heroicons.com) | Free | Clean SVG icons, made by the Tailwind team |
-| [OpenClipart](https://openclipart.org) | Free | Public domain vector clipart |
-| [Pexels](https://pexels.com) | Free | Stock photos and video |
-| [Wikimedia Commons](https://commons.wikimedia.org) | Free | Massive archive of public domain images, audio, video |
-
-## Personal Branding & Link-in-bio
-
-| Tool | Price | Notes |
-|------|-------|-------|
-| [Beacons.ai](https://beacons.ai) | Freemium | Link-in-bio + creator storefront |
-
-## SEO & Recon
-
-| Tool | Price | Notes |
-|------|-------|-------|
-| [Screaming Frog](https://screamingfrog.co.uk/seo-spider) | Freemium | Site crawl — links, redirects, structure |
-| [BuiltWith](https://builtwith.com) | Freemium | What stack is that site running |
+- [Heroicons](https://heroicons.com) — clean SVG icons _(free)_
+- [OpenClipart](https://openclipart.org) — public domain vector clipart _(free)_
+- [Pexels](https://pexels.com) — stock photos and video _(free)_
+- [Wikimedia Commons](https://commons.wikimedia.org) — public domain images, audio, video _(free)_
 
 ## Audio
 
-| Tool | Price | Notes |
-|------|-------|-------|
-| [Suno](https://suno.com) | Freemium | AI music generation |
+- [Suno](https://suno.com) — AI music generation _(freemium)_
 
 ## AI
 
-| Tool | Price | Notes |
-|------|-------|-------|
-| [Google Whisk](https://labs.google/fx/tools/whisk) | Free | Image mashup from reference images |
-| [Claude](https://claude.ai) | Freemium | Writing, strategy, code, thinking partner |
+- [Claude](https://claude.ai) — writing, strategy, code _(freemium)_
+- [Google Whisk](https://labs.google/fx/tools/whisk) — image mashup from references _(free)_
 
----
+## Mac Utilities
 
-*Adding to this as I go.*
+- [Rectangle](https://rectangleapp.com) — window snapping _(free)_
+- [GoPro Webcam](https://gopro.com/webcam) — GoPro as webcam _(free)_
+- [Notion](https://notion.so) — notes, guides, personal ops _(freemium)_
+
+## Personal Branding
+
+- [Beacons.ai](https://beacons.ai) — link-in-bio + creator storefront _(freemium)_
+
+## SEO & Recon
+
+- [Screaming Frog](https://screamingfrog.co.uk/seo-spider) — site crawl _(freemium)_
+- [BuiltWith](https://builtwith.com) — identify any site's tech stack _(freemium)_
