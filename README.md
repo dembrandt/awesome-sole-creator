@@ -4,95 +4,74 @@
 
 ---
 
-## Design & Prototyping
+## design
 
-- [Figma](https://figma.com): the main tool, free tier
-- [Paper](https://wetransfer.com/paper): quickest way to get an idea out of your head, iPad, free
-- [Freeform](https://apps.apple.com/app/freeform/id6443742539): Apples infinite canvas. Good when you dont know what you're making yet, built-in free
-- [Canva](https://canva.com): fast brand collateral and social assets, freemium
+- [Figma](https://figma.com) — the main tool, free tier
+- [Freeform](https://apps.apple.com/app/freeform/id6443742539) — Apples infinite canvas, built-in free
+- [Paper](https://wetransfer.com/paper) — quick sketching, iPad, free
+- [Canva](https://canva.com) — fast collateral and social assets, freemium
+- [Procreate](https://procreate.com) — iPad drawing and animation, comic work, paid
 
-## Font & Type
+## type & color
 
-- [Glyphs](https://glyphsapp.com): serious font creation, Mac only, paid
-- [Typescale](https://typescale.com): stops guessing type sizes, free
+- [Glyphs](https://glyphsapp.com) — font creation, Mac only, paid
+- [Typescale](https://typescale.com) — type scale calculator, free
+- [mycolor.space](https://mycolor.space) — palette generator, free
 
-## Color
+## dev
 
-- [mycolor.space](https://mycolor.space): fast palette starting point, free
+- [VS Code](https://code.visualstudio.com) — daily driver, free
+- [Next.js](https://nextjs.org) — React framework, free
+- [Tailwind CSS](https://tailwindcss.com) — utility CSS, free
+- [shadcn/ui](https://ui.shadcn.com) — component default for Tailwind + React, free
+- [Vercel](https://vercel.com) — deploy and host, freemium
+- [GitHub](https://github.com) — version control, freemium
+- [Linear](https://linear.app) — specs and issues, freemium
 
-## Dev
+## assets
 
-- [VS Code](https://code.visualstudio.com): everything is here, free
-- [Tailwind CSS](https://tailwindcss.com): CSS without writing CSS, free
-- [shadcn/ui](https://ui.shadcn.com): default for Tailwind + React, copy-paste components, free
-- [Next.js](https://nextjs.org): React framework, free
-- [Vercel](https://vercel.com): design to live fast, freemium
-- [GitHub](https://github.com): history, backup, collaboration, freemium
-- [Linear](https://linear.app): specs and tasks. Not Jira, freemium
+- [Heroicons](https://heroicons.com) — SVG icons for Tailwind, free
+- [Pexels](https://pexels.com) — stock photos, free
+- [OpenClipart](https://openclipart.org) — public domain vectors, free
+- [Wikimedia Commons](https://commons.wikimedia.org) — public domain media, free
 
-## Video & Media
+## media & recording
 
-- [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve): pro video and color. Free version covers most work
-- [Handbrake](https://handbrake.fr): convert video to anything, free
-- [Gifski](https://gif.ski): GIF that looks good, Mac, paid
-- [OBS Studio](https://obsproject.com): recodring and streaming, free
+- [Adobe CC](https://adobe.com/creativecloud) — Photoshop, Illustrator, Lightroom, sub
+- [Darktable](https://darktable.org) — raw processing, free
+- [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) — video editing and color, free/paid
+- [Handbrake](https://handbrake.fr) — video transcoding, free
+- [Gifski](https://gif.ski) — high quality GIF from video, Mac, paid
+- [OBS Studio](https://obsproject.com) — recodring and streaming, free
+- [GoPro Webcam](https://gopro.com/webcam) — GoPro as webcam, free
+- [Suno](https://suno.com) — AI music when you have no budget, freemium
 
-## Photo & Image
+## ai
 
-- [Adobe CC](https://adobe.com/creativecloud): expensive but necessary, sub
-- [Darktable](https://darktable.org): Lightroom without the subscription, free
-- [Procreate](https://procreate.com): drawing that feels right. iPad, comic and character work, paid
+- [Claude](https://claude.ai) — thinking, writing, code, freemium
+- [ChatGPT](https://chat.openai.com) — ideation and sparring, freemium
+- [Perplexity](https://perplexity.ai) — better search, freemium
+- [Google Whisk](https://labs.google/fx/tools/whisk) — mix reference images, free
 
-## Icons & Assets
+## productivity
 
-- [Heroicons](https://heroicons.com): drops straight into Tailwind, free
-- [OpenClipart](https://openclipart.org): old free vector bank, free
-- [Pexels](https://pexels.com): photos without license worry, free
-- [Wikimedia Commons](https://commons.wikimedia.org): historical and documentary material, free
+- [Notion](https://notion.so) — docs, guides, personal ops, freemium
+- [Rectangle](https://rectangleapp.com) — window management, free
 
-## Audio
+## marketing & distribution
 
-- [Suno](https://suno.com): AI music when you need a track and have no budget, freemium
+- [EmailOctopus](https://emailoctopus.com) — email marketing, freemium
+- [Beacons.ai](https://beacons.ai) — link-in-bio, freemium
+- [Product Hunt](https://producthunt.com) — launch visibility, free
+- [Google Analytics](https://analytics.google.com) — site analytics, free
 
-## AI
+## recon
 
-- [Claude](https://claude.ai): outsource thinking when stuck, freemium
-- [ChatGPT](https://chat.openai.com): ideation, code, sparring, freemium
-- [Perplexity](https://perplexity.ai): better Google in many situations, freemium
-- [Google Whisk](https://labs.google/fx/tools/whisk): mix reference images into something new, free
+- [Screaming Frog](https://screamingfrog.co.uk/seo-spider) — site crawl, freemium
+- [BuiltWith](https://builtwith.com) — identify any sites stack, freemium
 
-## Mac Utilities
+## reading
 
-- [Rectangle](https://rectangleapp.com): windows where you want them, free
-- [GoPro Webcam](https://gopro.com/webcam): best webcam you already own, free
-- [Notion](https://notion.so): external brain for guides and personal ops, freemium
-
-## Launch & Distribution
-
-- [Product Hunt](https://producthunt.com): get early adopters and visibility, free
-
-## Email Marketing
-
-- [EmailOctopus](https://emailoctopus.com): email without the Mailchimp price, freemium
-
-## Personal Branding
-
-- [Beacons.ai](https://beacons.ai): one link for everything you do, freemium
-
-## Inspiration & Learning
-
-- [Codrops](https://tympanus.net/codrops): creative frontend experiments, free
-- [Smashing Magazine](https://smashingmagazine.com): design and dev articles worth reading, free
-
-## Writing
-
-- [Hemingway Editor](https://hemingwayapp.com): makes writing sharp, freemium
-
-## Analytics
-
-- [Google Analytics](https://analytics.google.com): standard for tracking what people do on your site, free
-
-## SEO & Recon
-
-- [Screaming Frog](https://screamingfrog.co.uk/seo-spider): see a site the way Google sees it, freemium
-- [BuiltWith](https://builtwith.com): find out what any site is running, freemium
+- [Codrops](https://tympanus.net/codrops) — creative frontend, free
+- [Smashing Magazine](https://smashingmagazine.com) — design and dev articles, free
+- [Hemingway Editor](https://hemingwayapp.com) — sharpen your writing, freemium
