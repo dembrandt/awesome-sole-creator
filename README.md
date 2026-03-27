@@ -23,6 +23,7 @@ Curated list of tools after 25 years of design experience. Mac and CLI focused.
 
 - [VS Code](https://code.visualstudio.com) everything is here, free
 - [Tailwind CSS](https://tailwindcss.com) write CSS without writing CSS, free
+- [shadcn/ui](https://ui.shadcn.com) practical default for Tailwind + React stack, copy-paste components, free
 - [Next.js](https://nextjs.org) React framework, free
 - [Vercel](https://vercel.com) design to live fastest possible, freemium
 - [GitHub](https://github.com) all history, backup, collaboration, freemium
