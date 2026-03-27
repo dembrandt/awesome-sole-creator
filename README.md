@@ -9,6 +9,8 @@
 - [Paper](https://wetransfer.com/paper) quick sketching, iPad, free
 - [Canva](https://canva.com) fast collateral and social assets, freemium
 - [Procreate](https://procreate.com) iPad drawing and animation, comic work, paid
+- [Penpot](https://penpot.app) open source Figma alternative, self-hostable, free
+- [Affinity](https://affinity.serif.com) one-time purchase alternative to Adobe CC, paid
 
 ## type and color
 
