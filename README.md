@@ -71,6 +71,11 @@ Curated list of tools after 25 years of design experience. Mac and CLI focused.
 
 - [Beacons.ai](https://beacons.ai) one link for everything you do, freemium
 
+## Inspiration & Learning
+
+- [Codrops](https://tympanus.net/codrops) creative frontend experiments and tutorials, free
+- [Smashing Magazine](https://smashingmagazine.com) design and dev articles worth reading, free
+
 ## Writing
 
 - [Hemingway Editor](https://hemingwayapp.com) makes your writing sharp, freemium
