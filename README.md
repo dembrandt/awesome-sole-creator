@@ -1,6 +1,6 @@
 # awesome-sole-creator
 
-Things I actually use. Mac-focused.
+Curated list of tools after 25 years of design experience. Mac-focused.
 
 ---
 
