@@ -4,40 +4,36 @@
 
 | Tool | What it does | Purpose | Tier |
 |------|-------------|---------|------|
-| [Figma](https://figma.com) | UI design, prototyping, dev handoff | Design, collaboration | Freemium |
-| [Freeform](https://apps.apple.com/app/freeform/id6443742539) | Infinite canvas, built into Mac/iPad | Early-stage thinking, mood boards | Free |
-| [Paper](https://wetransfer.com/paper) | Sketching and ideation | Quick concepts, iPad | Freemium |
-| [Canva](https://canva.com) | Template-based design | Brand collateral, social assets | Freemium |
-| [Procreate](https://procreate.com) | Drawing, illustration, animation | Comic and character work, iPad | Paid |
-| [Penpot](https://penpot.app) | Open source design tool | Figma alternative, self-hostable | Free |
-| [Affinity](https://affinity.serif.com) | Vector, photo, publishing suite | Adobe CC alternative | Paid |
-| [Glyphs](https://glyphsapp.com) | Font design and creation | Type design, Mac only | Paid |
-| [Typescale](https://typescale.com) | Type scale calculator | Typography for web | Free |
-| [mycolor.space](https://mycolor.space) | Palette and gradient generator | Color exploration | Free |
-| [VS Code](https://code.visualstudio.com) | Code editor | Daily driver | Free |
-| [Next.js](https://nextjs.org) | React framework | Web app development | Free |
-| [Tailwind CSS](https://tailwindcss.com) | Utility-first CSS | Styling | Free |
-| [shadcn/ui](https://ui.shadcn.com) | Component library | Tailwind + React default | Free |
-| [Vercel](https://vercel.com) | Deployment and hosting | Ship fast | Freemium |
-| [GitHub](https://github.com) | Version control | Code history, collaboration | Freemium |
-| [Linear](https://linear.app) | Issue and spec tracking | Project management | Freemium |
-| [Heroicons](https://heroicons.com) | SVG icon library | UI icons, Tailwind projects | Free |
-| [Pexels](https://pexels.com) | Stock photo and video | Visual content | Free |
-| [OpenClipart](https://openclipart.org) | Public domain vectors | Clipart, illustrations | Free |
-| [Wikimedia Commons](https://commons.wikimedia.org) | Public domain media archive | Historical and documentary material | Free |
-| [Adobe CC](https://adobe.com/creativecloud) | Photoshop, Illustrator, Lightroom and more | Photo, vector, print | Sub |
-| [Darktable](https://darktable.org) | Raw photo processing | Photography, Lightroom alternative | Free |
-| [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) | Video editing and color grading | Video production | Free / Paid |
-| [Handbrake](https://handbrake.fr) | Video transcoding | Format conversion | Free |
-| [Gifski](https://gif.ski) | GIF conversion from video | High quality GIFs, Mac | Paid |
-| [OBS Studio](https://obsproject.com) | Screen recording and streaming | Capture, broadcast | Free |
-| [GoPro Webcam](https://gopro.com/webcam) | GoPro as Mac webcam | Video calls, recording | Free |
-| [Suno](https://suno.com) | AI music generation | Background audio, no budget | Freemium |
-| [Claude](https://claude.ai) | Writing, reasoning, code | Thinking partner | Freemium |
+| [Figma](https://figma.com) | Industry standard for all UI design | Design, collaboration | Freemium |
+| [Canva](https://canva.com) | Graphic design made easy | Brand collateral, social assets | Freemium |
+| [Procreate](https://procreate.com) | Best drawing tool for iPad | Comic and character work, iPad | Paid |
+| [Glyphs](https://glyphsapp.com) | Make your own fonts | Type design, Mac only | Paid |
+| [Typescale](https://typescale.com) | Modular type scale | Typography for web | Free |
+| [mycolor.space](https://mycolor.space) | Palettes and new colors | Color exploration | Free |
+| [VS Code](https://code.visualstudio.com) | Best code editor | Daily driver | Free |
+| [Next.js](https://nextjs.org) | Solid react framework | Web app development | Free |
+| [Tailwind CSS](https://tailwindcss.com) | De-facto web UI styles | Styling | Free |
+| [shadcn/ui](https://ui.shadcn.com) | Nice, pluggable component library | Tailwind + React default | Free |
+| [Vercel](https://vercel.com) | Easy deployment and hosting | Ship fast | Freemium |
+| [GitHub](https://github.com) | The Social Media | Code history, collaboration | Freemium |
+| [Linear](https://linear.app) | Hipster Jira | Project management | Freemium |
+| [Heroicons](https://heroicons.com) | The Best SVG Icon Library | UI icons, Tailwind projects | Free |
+| [Pexels](https://pexels.com) | Free Videos / Images | Visual content | Free |
+| [OpenClipart](https://openclipart.org) | Public Domain images | Clipart, illustrations | Free |
+| [Wikimedia Commons](https://commons.wikimedia.org) | Public domain media media | Historical and documentary material | Free |
+| [Adobe CC](https://adobe.com/creativecloud) | Go- to Graphic designer setup | Photo, vector, print | Sub |
+| [Darktable](https://darktable.org) | Alternative to Lightroom | Photography, Lightroom alternative | Free |
+| [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) | One of the best video editors | Video production | Free / Paid |
+| [Handbrake](https://handbrake.fr) | Make videos smaller | Format conversion | Free |
+| [Gifski](https://gif.ski) | Make gifs out of videos | High quality GIFs, Mac | Paid |
+| [OBS Studio](https://obsproject.com) | De-facto platform for streaming / live | Capture, broadcast | Free |
+| [GoPro Webcam](https://gopro.com/webcam) | GoPro as Webcam | Video calls, recording | Free |
+| [Suno](https://suno.com) | Make AI Music | Background audio, no budget | Freemium |
+| [Claude](https://claude.ai) | Go-to for everything, really | Thinking partner | Freemium |
 | [ChatGPT](https://chat.openai.com) | Generative AI assistant | Ideation, sparring | Freemium |
-| [Perplexity](https://perplexity.ai) | AI-powered search | Research, quick answers | Freemium |
+| [Grok](https://chat.openai.com) | Real-time social intelligence | News, trends, "truth-seeking" | Freemium / Paid |
 | [Google Whisk](https://labs.google/fx/tools/whisk) | AI image mashup | Visual experimentation | Free |
-| [Notion](https://notion.so) | Notes, docs, databases | Guides, personal ops | Freemium |
+| [Notion](https://notion.so) | Personal docs + Sellable stuff | Guides, personal ops | Freemium |
 | [Rectangle](https://rectangleapp.com) | Window snapping | Mac window management | Free |
 | [EmailOctopus](https://emailoctopus.com) | Email marketing platform | Newsletters, campaigns | Freemium |
 | [Beacons.ai](https://beacons.ai) | Link-in-bio page | Personal branding, creator hub | Freemium |
@@ -45,10 +41,9 @@
 | [Google Analytics](https://analytics.google.com) | Web analytics | Site traffic and behavior | Free |
 | [WCAG 2.2](https://www.w3.org/TR/WCAG22/) | Accessibility guidelines | Web accessibility standard | Free |
 | [WHATWG](https://whatwg.org) | Living HTML and DOM specs | HTML standard reference | Free |
-| [MDN Web Docs](https://developer.mozilla.org) | HTML, CSS, JS reference | Development reference | Free |
 | [W3C](https://www.w3.org) | Web standards organization | All web standards | Free |
-| [Screaming Frog](https://screamingfrog.co.uk/seo-spider) | Site crawler | SEO audits, site structure | Freemium |
-| [BuiltWith](https://builtwith.com) | Technology profiler | Identify any sites stack | Freemium |
-| [Codrops](https://tympanus.net/codrops) | Creative frontend articles | Inspiration, experiments | Free |
-| [Smashing Magazine](https://smashingmagazine.com) | Design and dev publication | Articles worth reading | Free |
-| [Hemingway Editor](https://hemingwayapp.com) | Writing clarity tool | Sharpen copy and content | Freemium |
+| [Screaming Frog](https://screamingfrog.co.uk/seo-spider) | Crawl any website for content | SEO audits, site structure | Freemium |
+| [BuiltWith](https://builtwith.com) | See whats underneath any url | Identify any sites stack | Freemium |
+| [Codrops](https://tympanus.net/codrops) | Creative frontend inspiration | Inspiration, experiments | Free |
+| [Smashing Magazine](https://smashingmagazine.com) | Frontend development go-to hub | Articles worth reading | Free |
+| [Hemingway Editor](https://hemingwayapp.com) | Write in Hemingway style | Sharpen copy and content | Freemium |
