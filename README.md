@@ -29,6 +29,8 @@
 | [OBS Studio](https://obsproject.com) | De-facto platform for streaming / live | Capture, broadcast | Free |
 | [GoPro Webcam](https://gopro.com/webcam) | GoPro as Webcam | Video calls, recording | Free |
 | [Suno](https://suno.com) | Make AI Music | Background audio, no budget | Freemium |
+| [Dembrandt](https://dembrandt.com) | Extract any website's design system in seconds | Design tokens, brand analysis, AI agent context | Free / OSS |
+| [Claude Code](https://claude.ai/code) | AI coding agent in the terminal | Agentic development, MCP integrations | Freemium |
 | [Claude](https://claude.ai) | Go-to for everything, really | Thinking partner | Freemium |
 | [ChatGPT](https://chat.openai.com) | Generative AI assistant | Ideation, sparring | Freemium |
 | [Grok](https://chat.openai.com) | Real-time social intelligence | News, trends, "truth-seeking" | Freemium / Paid |
