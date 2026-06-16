@@ -21,6 +21,7 @@
 | [Pexels](https://pexels.com) | Free Videos / Images | Visual content | Free |
 | [OpenClipart](https://openclipart.org) | Public Domain images | Clipart, illustrations | Free |
 | [Wikimedia Commons](https://commons.wikimedia.org) | Public domain media media | Historical and documentary material | Free |
+| [OpenGameArt](https://opengameart.org) | Free / open-licensed game art and audio | Sprites, textures, icons, music, SFX | Free |
 | [Adobe CC](https://adobe.com/creativecloud) | Go- to Graphic designer setup | Photo, vector, print | Sub |
 | [Darktable](https://darktable.org) | Alternative to Lightroom | Photography, Lightroom alternative | Free |
 | [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) | One of the best video editors | Video production | Free / Paid |
