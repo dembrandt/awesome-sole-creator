@@ -50,3 +50,5 @@
 | [Codrops](https://tympanus.net/codrops) | Creative frontend inspiration | Inspiration, experiments | Free |
 | [Smashing Magazine](https://smashingmagazine.com) | Frontend development go-to hub | Articles worth reading | Free |
 | [Hemingway Editor](https://hemingwayapp.com) | Write in Hemingway style | Sharpen copy and content | Freemium |
+| [RealFaviconGenerator](https://realfavicongenerator.net) | Favicons for every platform | Favicon generation, testing | Free |
+| [OpenGraph.xyz](https://www.opengraph.xyz) | Preview social share cards | Open Graph debugging, previews | Free |
