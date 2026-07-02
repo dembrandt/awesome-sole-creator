@@ -32,6 +32,7 @@
 | [Tailwind CSS](https://tailwindcss.com) | De-facto web UI styles | Styling | Free |
 | [shadcn/ui](https://ui.shadcn.com) | Nice, pluggable component library | Tailwind + React default | Free |
 | [GitHub](https://github.com) | The Social Media | Code history, collaboration | Freemium |
+| [gh](https://cli.github.com) / [glab](https://gitlab.com/gitlab-org/cli) | GitHub and GitLab straight from the terminal | PRs, issues, releases, CLI | Free |
 | [Vercel](https://vercel.com) | Easy deployment and hosting | Ship fast | Freemium |
 | [Linear](https://linear.app) | Hipster Jira | Project management | Freemium |
 | [Claude](https://claude.ai) | Go-to for everything, really | Thinking partner | Freemium |
