@@ -45,7 +45,6 @@
 | [Screaming Frog](https://screamingfrog.co.uk/seo-spider) | Crawl any website for content | SEO audits, site structure | Freemium |
 | [Google Search Console](https://search.google.com/search-console) | How Google actually sees your site | Indexing, Core Web Vitals, rich results | Free |
 | [PageSpeed Insights](https://pagespeed.web.dev) | Lighthouse with real field data | Performance, SEO, a11y scores | Free |
-| [Schema Markup Validator](https://validator.schema.org) | Validate any schema.org markup | JSON-LD, structured data | Free |
 | [WAVE](https://wave.webaim.org) | Spot accessibility issues on any page | WCAG issues, Chrome / Firefox | Free |
 | [BuiltWith](https://builtwith.com) | See whats underneath any url | Identify any sites stack | Freemium |
 | [Google Analytics](https://analytics.google.com) | Web analytics | Site traffic and behavior | Free |
