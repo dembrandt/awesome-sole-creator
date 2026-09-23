@@ -45,13 +45,8 @@
 | [Screaming Frog](https://screamingfrog.co.uk/seo-spider) | Crawl any website for content | SEO audits, site structure | Freemium |
 | [Google Search Console](https://search.google.com/search-console) | How Google actually sees your site | Indexing, Core Web Vitals, rich results | Free |
 | [PageSpeed Insights](https://pagespeed.web.dev) | Lighthouse with real field data | Performance, SEO, a11y scores | Free |
-| [WebPageTest](https://www.webpagetest.org) | Waterfall-level performance testing | Load analysis, filmstrips | Free |
-| [Rich Results Test](https://search.google.com/test/rich-results) | Check structured data for Google | Schema.org, rich snippets | Free |
 | [Schema Markup Validator](https://validator.schema.org) | Validate any schema.org markup | JSON-LD, structured data | Free |
-| [W3C Markup Validator](https://validator.w3.org) | Catch invalid HTML | Markup quality | Free |
-| [WAVE](https://wave.webaim.org) | Visual accessibility audit in the browser | WCAG issues, Chrome / Firefox | Free |
-| [axe DevTools](https://www.deque.com/axe/devtools/) | Accessibility checker in DevTools | WCAG issues, automated testing | Freemium |
-| [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) | Grade your security headers | HTTPS, CSP, hardening | Free |
+| [WAVE](https://wave.webaim.org) | Spot accessibility issues on any page | WCAG issues, Chrome / Firefox | Free |
 | [BuiltWith](https://builtwith.com) | See whats underneath any url | Identify any sites stack | Freemium |
 | [Google Analytics](https://analytics.google.com) | Web analytics | Site traffic and behavior | Free |
 | [EmailOctopus](https://emailoctopus.com) | Email marketing platform | Newsletters, campaigns | Freemium |
