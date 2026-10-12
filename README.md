@@ -42,6 +42,7 @@
 | [Google Whisk](https://labs.google/fx/tools/whisk) | AI image mashup | Visual experimentation | Free |
 | [RealFaviconGenerator](https://realfavicongenerator.net) | Favicons for every platform | Favicon generation, testing | Free |
 | [OpenGraph.xyz](https://www.opengraph.xyz) | Preview social share cards | Open Graph debugging, previews | Free |
+| [X Card Validator](https://cards-dev.x.com/validator) | Refetch a link preview on X | Clearing a stale card after an og:image change | Free |
 | [Screaming Frog](https://screamingfrog.co.uk/seo-spider) | Crawl any website for content | SEO audits, site structure | Freemium |
 | [Google Search Console](https://search.google.com/search-console) | How Google actually sees your site | Indexing, Core Web Vitals, rich results | Free |
 | [PageSpeed Insights](https://pagespeed.web.dev) | Lighthouse with real field data | Performance, SEO, a11y scores | Free |
