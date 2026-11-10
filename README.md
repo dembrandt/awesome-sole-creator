@@ -40,6 +40,7 @@
 | [ChatGPT](https://chat.openai.com) | Generative AI assistant | Ideation, sparring | Freemium |
 | [Grok](https://chat.openai.com) | Real-time social intelligence | News, trends, "truth-seeking" | Freemium / Paid |
 | [Google Whisk](https://labs.google/fx/tools/whisk) | AI image mashup | Visual experimentation | Free |
+| [Prompt Generator](https://trypromptgenerator.com) | Writes prompts for ChatGPT, Claude, Midjourney, Veo and other AI tools | Prompts for AI chat, image and video tools | Freemium |
 | [RealFaviconGenerator](https://realfavicongenerator.net) | Favicons for every platform | Favicon generation, testing | Free |
 | [OpenGraph.xyz](https://www.opengraph.xyz) | Preview social share cards | Open Graph debugging, previews | Free |
 | [X Card Validator](https://cards-dev.x.com/validator) | Refetch a link preview on X | Clearing a stale card after an og:image change | Free |
