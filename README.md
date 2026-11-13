@@ -26,6 +26,7 @@
 | [OBS Studio](https://obsproject.com) | De-facto platform for streaming / live | Capture, broadcast | Free |
 | [GoPro Webcam](https://gopro.com/webcam) | GoPro as Webcam | Video calls, recording | Free |
 | [GoFullPage](https://gofullpage.com) | Full-page screenshot capture | Long-page screenshots, Chrome | Freemium |
+| [Incompetech](https://incompetech.com/music) | Kevin MacLeod's royalty-free music library | Background music, CC BY with attribution | Free / Paid |
 | [Suno](https://suno.com) | Make AI Music | Background audio, no budget | Freemium |
 | [VS Code](https://code.visualstudio.com) | Best code editor | Daily driver | Free |
 | [Next.js](https://nextjs.org) | Solid react framework | Web app development | Free |
