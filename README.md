@@ -62,3 +62,4 @@
 | [WHATWG](https://whatwg.org) | Living HTML and DOM specs | HTML standard reference | Free |
 | [W3C](https://www.w3.org) | Web standards organization | All web standards | Free |
 | [Rectangle](https://rectangleapp.com) | Window snapping | Mac window management | Free |
+| [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) | Multi-monitor window/Space restore, brightness sync, sleep prevention | Mac display & window management | Free / OSS |
