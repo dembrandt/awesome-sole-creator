@@ -21,6 +21,7 @@
 | [Darktable](https://darktable.org) | Alternative to Lightroom | Photography, Lightroom alternative | Free |
 | [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) | One of the best video editors | Video production | Free / Paid |
 | [Blackmagic Camera](https://apps.apple.com/us/app/blackmagic-camera/id6449580241) | Pro camera controls for iPhone | Mobile video capture, iOS | Free |
+| [Remotion](https://www.remotion.dev) | Make videos with React | Programmatic video, motion graphics | Free / Paid |
 | [Handbrake](https://handbrake.fr) | Make videos smaller | Format conversion | Free |
 | [Gifski](https://gif.ski) | Make gifs out of videos | High quality GIFs, Mac | Paid |
 | [OBS Studio](https://obsproject.com) | De-facto platform for streaming / live | Capture, broadcast | Free |
